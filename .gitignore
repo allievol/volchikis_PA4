@@ -1,1 +1,13 @@
-/.metadata/
+.metadata/
+HelloWorld/.classpath
+HelloWorld/.gitignore
+HelloWorld/.project
+HelloWorld/.settings/org.eclipse.jdt.core.prefs
+HelloWorld/src/HelloWorld.java
+volchikis_p1/src/volchikis_p1/Encrypt.java
+volchikis_p2/src/volchikis_p2/BMI.java
+ volchikis_p3/.classpath
+volchikis_p3/.gitignore
+volchikis_p3/.project
+volchikis_p3/.settings/org.eclipse.jdt.core.prefs
+volchikis_p3/src/volchikis_p3/Polling.java
